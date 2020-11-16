@@ -1,3 +1,11 @@
+/* _____________________________________________
+  |            SISTEMAS PROGRAMABLES            |
+  |   INGENIERÍA EN SISTEMAS COMPUTACIONALES    |
+  |                 7° SEMESTRE                 |
+  |          MARCO ALEJANDRO CUPUL HAU          |
+  |                 13/11/2020                  |
+  |_____________________________________________|*/
+
 //:::::::::::::::PINES UTILIZADOS:::::::::::::::
 int leds[]={2,3,4, 5,6,7, 8,9,10, 11,12,13};    //Semáforos 1, 2, 3 y 4 (verde, amarillo, rojo)
 
